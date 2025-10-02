@@ -1,4 +1,4 @@
-x`<h1 align="center">Hi 👋, I'm Ibraahiim Wahana</h1>
+<h1 align="center">Hi 👋, I'm Ibraahiim Wahana</h1>
 <h3 align="center">🚀 A Computer Science Student & CyberSecurity Enthusiast | 🌐 Exploring DevOps, Networks, and Cyber Security Related Field</h3>
 
 
