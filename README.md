@@ -26,8 +26,8 @@
 - 📖 Exploring new concepts in **tech & security**
 ---
 ---
-### Project
-- 📱 Currently working on **Secure Programming Online Course Apps**  
+### 🚧 Current Project
+- 📱💻 Currently working on **Secure Programming Online Course Apps**  
 ---
 
 ### 🤝 Connect with me:
