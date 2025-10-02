@@ -15,7 +15,7 @@
 ### 🎯 Hobbies & Interests
 - 🎮 Playing **strategy games** (love the challenge & tactics)  
 - 🎤 Singing and enjoying **music** 🎧  
-- 🏃 Running to refresh my mind and spark creativity  
+- 🐱 Spending time with **cats**  
 - 📖 Exploring new concepts in **tech & security**
 ---
 
