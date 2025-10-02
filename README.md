@@ -54,6 +54,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=WizdoL&theme=tokyonight" alt="github streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizdoL&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
