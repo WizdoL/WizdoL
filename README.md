@@ -53,6 +53,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" </a>
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali linux" width="40" height="40"/> </a>
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://portswigger.net/content/images/logos/burp-icon.svg"  alt="burpsuite" width="40" height="40"/> </a>
+
 </p>
 
 ---
