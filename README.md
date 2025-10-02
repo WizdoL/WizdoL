@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ibraahiim</h1>
+<h1 align="center">Hi 👋, I'm Ibraahiim Wahana</h1>
 <h3 align="center">🚀 A Computer Science Student & CyberSecurity Enthusiast | 🌐 Exploring DevOps, Networks, and Cyber Security Related Field</h3>
 
 ---
@@ -53,4 +53,7 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=WizdoL&theme=tokyonight" alt="github streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizdoL&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
