@@ -25,6 +25,10 @@
 - 🐱 Spending time with **cats**  
 - 📖 Exploring new concepts in **tech & security**
 ---
+---
+### Project
+- 📱 Currently working on **Secure Programming Online Course Apps**  
+---
 
 ### 🤝 Connect with me:
 <p align="left">
