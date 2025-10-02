@@ -11,6 +11,13 @@
 - 📫 Reach me at: **ibrahimwahana05@gmail.com**
 
 ---
+---
+### 🎯 Hobbies & Interests
+- 🎮 Playing **strategy games** (love the challenge & tactics)  
+- 🎤 Singing and enjoying **music** 🎧  
+- 🏃 Running to refresh my mind and spark creativity  
+- 📖 Exploring new concepts in **tech & security**
+---
 
 ### 🤝 Connect with me:
 <p align="left">
