@@ -15,7 +15,7 @@
 ### 🤝 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-ibraahiim-putra-wahana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/christ0208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://github.com/WizdoL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
@@ -42,10 +42,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christ0208&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WizdoL&show_icons=true&theme=tokyonight" alt="github stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=christ0208&theme=tokyonight" alt="github streak" />
+  <img src="https://streak-stats.demolab.com?user=WizdoL&theme=tokyonight" alt="github streak" />
 </p>
-
-
