@@ -62,7 +62,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WizdoL&show_icons=true&theme=tokyonight" alt="github stats" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=WizdoL&theme=tokyonight" alt="github streak" />
-</p>
-
