@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ibraahiim Wahana</h1>
 <h3 align="center">🚀 A Computer Science Student & CyberSecurity Enthusiast | 🌐 Exploring DevOps, Networks, and Cyber Security Related Field</h3>
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/14mKAgnCKCXorWBKhmTKFapE-NgcwLKlj/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20View%20My%20CV-blue?style=for-the-badge" alt="CV Badge"/>
+  </a>
+</p>
+
 
 ---
 <picture>
