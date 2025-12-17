@@ -19,7 +19,7 @@
 ### 👨‍💻 About Me
 - 🌱 Currently diving into **DevOps, Networking, and Cyber Security**  
 - 🛡️ Passionate about **Penetration Testing, Threat Hunting, DevOps, Software Engineering**   
-- 🎯 Goal: To become a **Cyber Security Engineer / DevSecOps**  
+- 🎯 Goal: To become a **Cyber Security Analyst / CTI**  
 - 📫 Reach me at: **ibrahimwahana05@gmail.com**
 
 ---
